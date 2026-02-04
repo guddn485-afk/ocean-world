@@ -1,0 +1,8 @@
+
+{
+  "name": "OC - Ocean Clean",
+  "description": "제주 바다를 위한 전문 환경 플랫폼으로, 해양 정화 활동에 따른 보상 시스템과 실시간 트래킹을 제공합니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
